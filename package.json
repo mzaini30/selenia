@@ -1,0 +1,27 @@
+{
+  "name": "selenia",
+  "version": "0.0.1",
+  "description": "Selenium versi simpel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzaini30/selenia.git"
+  },
+  "keywords": ["selenium", "selenium-plugin"],
+  "author": "Zen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mzaini30/selenia/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/mzaini30/selenia#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.1.0"
+  },
+  "devDependencies": {
+    "chromedriver": "95"
+  }
+}
